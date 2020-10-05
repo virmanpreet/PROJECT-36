@@ -1,0 +1,12 @@
+class Form{
+    constructor(){
+        
+        
+    }
+
+   display(){
+    
+
+   
+   }
+}
